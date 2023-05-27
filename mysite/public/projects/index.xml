@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on Saprilian Hidayat</title>
+    <link>https://examplesite.com/projects/</link>
+    <description>Recent content in Projects on Saprilian Hidayat</description>
+    <image>
+      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 May 2023 23:15:00 +0700</lastBuildDate><atom:link href="https://examplesite.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Find-IT UGM: Hoter Price Prediction with Pycaret</title>
+      <link>https://examplesite.com/projects/reproducible-computational-drug-discovery/</link>
+      <pubDate>Mon, 22 May 2023 23:15:00 +0700</pubDate>
+      
+      <guid>https://examplesite.com/projects/reproducible-computational-drug-discovery/</guid>
+      <description>Problem Overview Kyozo, a prominent global hotel chain, is seeking the assistance of a data consultant to develop a price prediction model for their upcoming hotel ventures. As the chosen data consultant, you have been provided with a dataset containing information from thousands of their current hotels. However, Kyozo&amp;rsquo;s team lacks expertise in handling data, and thus, you are tasked with matching columns and values to various hotel examples for accurate predictions.</description>
+    </item>
+    
+    <item>
+      <title>Text Analysist : Emirate Airline Reviews using Count Words, Bigram, and Trigram</title>
+      <link>https://examplesite.com/projects/acetylcholinesterase/</link>
+      <pubDate>Sat, 08 Apr 2023 23:15:00 +0700</pubDate>
+      
+      <guid>https://examplesite.com/projects/acetylcholinesterase/</guid>
+      <description>Problem Understanding This data science project focused on analyzing customer reviews of Emirates Airlines obtained from the https://www.airlinequality.com/airline-reviews/emirates/. By applying text analysis and natural language processing (NLP) techniques, the sentiment of the reviews was categorized as positive, negative, or neutral. The findings revealed that the majority of the reviews (1407) were classified as positive, indicating a high level of satisfaction among Emirates Airlines&amp;rsquo; users. However, there were also negative reviews (620) and neutral reviews (214), suggesting areas for improvement in the airline&amp;rsquo;s services.</description>
+    </item>
+    
+    <item>
+      <title>Vending Machine Analysist -- Revou Capstone Project (MSIB Kampus Merdeka)</title>
+      <link>https://examplesite.com/projects/erpred/</link>
+      <pubDate>Wed, 05 Apr 2023 23:15:00 +0700</pubDate>
+      
+      <guid>https://examplesite.com/projects/erpred/</guid>
+      <description>Business Overview The vending machine company is having several vending machines from various locations in Central New Jersey. The locations include a library, a mall, an office location, and a manufacturing location. The company would like to find multiple insights from the vending machine data to improve its performance. The dataset is recorded from 5 different machines for 8 months.
+imitation: The dataset date’s time is only from January to August 2022.</description>
+    </item>
+    
+  </channel>
+</rss>
