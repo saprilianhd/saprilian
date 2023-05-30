@@ -1,5 +1,5 @@
 ---
-title: "Find-IT UGM: Hoter Price Prediction with Pycaret"
+title: "Find-IT UGM: Hotel Price Prediction with Pycaret"
 date: 2023-05-22T23:15:00+07:00
 slug: reproducible-computational-drug-discovery
 category: projects
