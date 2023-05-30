@@ -1,7 +1,7 @@
 ---
 title: "Price Car Prediction using Machine Learning"
 date: 2023-05-29T23:15:00+07:00
-slug: reproducible-computational-drug-discovery
+slug: price-car-prediction
 category: projects
 summary:
 description:
